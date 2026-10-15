@@ -257,3 +257,6 @@ html {scroll-behavior: auto;}
 .footer-grid > div > a:not(.brand):focus-visible,
 .header #main-nav,
 .header #main-nav.open {transform: none;}}
+.footer-email {display: flex; align-items: center; gap: 6px;}
+.footer-email svg {display: block; flex: 0 0 13px; width: 13px; height: 13px;}
+
